@@ -182,16 +182,6 @@ panther-dating-app/
 
 ---
 
-## Adding Collaborators
-
-1. Go to: https://github.com/alzxandzr/panther-dating-app/settings/access
-2. Click **"Add people"**
-3. Enter GitHub username or email
-4. Give **Write** access for developers
-5. They'll receive an email invitation
-
----
-
 ## First 5 Tasks (See GitHub Issues)
 
 1. **Set up Expo + base project structure**
@@ -206,12 +196,12 @@ Check the Issues tab for detailed descriptions of each task.
 
 ## MVP Features (Must-Have)
 
-- ✅ FIU email-only sign-up/login (@fiu.edu)
-- ✅ Hinge-style card stack browsing
-- ✅ Like/pass system with match notifications
-- ✅ 1-1 chat for matches
-- ✅ Basic group/event chat rooms
-- ✅ Push notifications for new matches and messages
+- FIU email-only sign-up/login (@fiu.edu)
+- Hinge-style card stack browsing
+- Like/pass system with match notifications
+- 1-1 chat for matches
+- Basic group/event chat rooms
+- Push notifications for new matches and messages
 
 ## Nice-to-Have (Post-MVP)
 
@@ -221,8 +211,3 @@ Check the Issues tab for detailed descriptions of each task.
 - Video chat
 - Event-based speed dating rounds
 
----
-
-## Questions?
-
-Reach out in the team Notion workspace or Slack channel.
